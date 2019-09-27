@@ -1,0 +1,20 @@
+Package: rQUDT
+Type: Package
+Title: Code to convert quantities, using the QUDT ontology
+Version: 0.1.0
+Date: 2019-09-27
+Author: Egon Willighagen <egon.willighagen@gmail.com>
+Authors@R: c(person("Egon", "Willighagen", role = c("aut","cre"),
+                     email = "egon.willighagen@gmail.com",
+                     comment = c(ORCID = "0000-0001-7542-0286"))
+           )
+Maintainer: Egon Willighagen <egon.willighagen@gmail.com>
+Depends: R (>= 3.3.0), rJava
+VignetteBuilder: knitr
+Suggests: BiocStyle, knitr, rmarkdown, testthat
+Description: Use the QUDT ontology to convert quantities in R.
+biocViews: Annotation, Metabolomics
+License: AGPL-3
+LazyLoad: yes
+URL: https://github.com/egonw/rQUDT
+BugReports: https://github.com/egonw/rQUDT/issues
