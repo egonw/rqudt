@@ -14,7 +14,7 @@ VignetteBuilder: knitr
 Suggests: BiocStyle, knitr, rmarkdown, testthat
 Description: Use the QUDT ontology to convert quantities in R.
 biocViews: Annotation, Metabolomics
-License: AGPL-3
+License: file LICENSE
 LazyLoad: yes
 URL: https://github.com/egonw/rQUDT
 BugReports: https://github.com/egonw/rQUDT/issues
