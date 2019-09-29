@@ -11,7 +11,7 @@ Install with:
 install.packages("rJava") # if not present already
 install.packages("devtools") # if not present already
 library(devtools)
-install_github("bridgedb/BridgeDbR")
+install_github("egonw/rqudt")
 ```
 
 ## Example
